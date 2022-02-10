@@ -11,7 +11,7 @@ i'm an engineer student in the [ESEO](http://eseo.fr) engineer school in France 
 - the HTML and CSS
 - the cybersecurity via [HackTheBox](http://hackthebox.com)
 ### :e-mail: How to reach me :
-- you can join me on my email :arrow_right: dorianduranton64@gmail.com
+- you can reach me on my email :arrow_right: dorianduranton64@gmail.com
 
 <img src="https://media3.giphy.com/media/xUOxeRP7tdqPm1M4CI/200w.webp?cid=ecf05e47q7maiff03kjybo93imm450g70dirgrl150gw2jaq&rid=200w.webp&ct=s" width="100">
 
