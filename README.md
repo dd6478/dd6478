@@ -9,6 +9,7 @@ i'm an engineer student in the [ESEO](http://eseo.fr) engineer school in France 
 - the Crypto :chart_with_upwards_trend: and blockchain technologie
 ### 🌱 I’m currently learning :
 - the HTML and CSS
+- other language (Python, C++, ...)
 - the cybersecurity via [HackTheBox](http://hackthebox.com)
 ### :e-mail: How to reach me :
 - you can reach me on my email :arrow_right: dorianduranton64@gmail.com
