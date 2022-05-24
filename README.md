@@ -1,4 +1,8 @@
-<img src="https://media4.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif?cid=ecf05e47c09td67vy6nnrscpsshzl3l30qhgyqa535fwon6r&rid=giphy.gif&ct=s" width="70">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="="https://media4.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif?cid=ecf05e47c09td67vy6nnrscpsshzl3l30qhgyqa535fwon6r&rid=giphy.gif&ct=s" width="70">
+  <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="70">
+</picture>
+
  
 # I’m Dorian 
 i'm an engineer student in the [ESEO](http://eseo.fr) engineer school in France :large_blue_circle::white_circle::red_circle:
